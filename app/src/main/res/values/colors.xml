@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F18300</color>
+
+    <color name="gradient_start_color">#F18300</color>
+    <color name="gradient_end_color">#C65901</color>
+
+    <color name="transparentBlack">#7A000000</color>
+    <color name="player_bg">#CB000000</color>
+    <color name="white">#FFF</color>
+    <color name="red_A700">#D50000</color>
+    <color name="light_green_A700">#64DD17</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_A700">#00C853</color>
+    <color name="green_5020">#27CA2E</color>
+
+    <color name="tab_indicator_gray">#FFFFFF</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="blue_gradient">#3f3af7</color>
+    <color name="transparent">#0000</color>
+    <color name="light_blue_with_transparency">#B41F54A5</color>
+    <color name="light_blue_no_transparency">#1F54A5</color>
+    <color name="grey">#848485</color>
+    <color name="red_600">#E53935</color>
+    <color name="green">#12B800</color>
+    <color name="light_blue_with_extra_transparency">#78920000</color>
+    <color name="light_pink">#2DD81B60</color>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/height_size_1_dp"
+    app:cardCornerRadius="@dimen/size_3_dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/Custom_learning_leaders_image_layout"
+            android:layout_width="99dp"
+            android:layout_height="95dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/Custom_learning_leaders_name_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="Flavio Barros"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size_18_sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@+id/Custom_learning_leaders_image_layout"
+            app:layout_constraintTop_toTopOf="@+id/Custom_learning_leaders_image_layout" />
+
+        <TextView
+            android:id="@+id/Custom_learning_leaders_hours_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="TextView"
+            app:layout_constraintStart_toStartOf="@+id/Custom_learning_leaders_name_layout"
+            app:layout_constraintTop_toBottomOf="@+id/Custom_learning_leaders_name_layout" />
+
+        <TextView
+            android:id="@+id/Custom_learning_leaders_country_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:text="TextView"
+            app:layout_constraintBottom_toBottomOf="@+id/Custom_learning_leaders_hours_layout"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/Custom_learning_leaders_hours_layout"
+            app:layout_constraintTop_toTopOf="@+id/Custom_learning_leaders_hours_layout"
+            app:layout_constraintVertical_bias="0.0" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Activity All in One Xml-->
+
+    <dimen name="add_Icon_Height">24dp</dimen>
+    <dimen name="add_Icon_Width">24dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+
+    <!-- General spacing-->
+
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="exit_layout_card_corner_radious">23dp</dimen>
+    <dimen name="exit_layout_card_elevation">0dp</dimen>
+    <dimen name="exit_layout_card_linear_width">45dp</dimen>
+    <dimen name="exit_layout_view_height">0dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="padding_5_dp">5dp</dimen>
+    <dimen name="margin_4_dp">4dp</dimen>
+    <dimen name="text_size_20_sp">20sp</dimen>
+    <dimen name="margin_8_dp">8dp</dimen>
+    <dimen name="padding_10_dp">10dp</dimen>
+    <dimen name="height_80_dp">60dp</dimen>
+    <dimen name="text_size_18_sp">18sp</dimen>
+    <dimen name="width_size_5dp">5dp</dimen>
+    <dimen name="width_size_62_dp">62dp</dimen>
+    <dimen name="width_size_44_dp">4dp</dimen>
+
+    <dimen name="width_size_67_dp">67dp</dimen>
+    <dimen name="height_size_66_dp">66dp</dimen>
+    <dimen name="margin_size_16_dp">16dp</dimen>
+
+    <dimen name="margin_size_4_dp">4dp</dimen>
+    <dimen name="margin_size_32_dp">32dp</dimen>
+
+    <dimen name="text_size_14_sp">14sp</dimen>
+    <dimen name="height_size_53_dp">53dp</dimen>
+    <dimen name="height_size_56_dp">56dp</dimen>
+    <dimen name="margin_size_10_dp">10dp</dimen>
+    <dimen name="margin_size_24_dp">24dp</dimen>
+    <dimen name="text_size_24_sp">24sp</dimen>
+    <dimen name="margin_5_dp">5dp</dimen>
+    <dimen name="text_size_16_sp">16sp</dimen>
+    <dimen name="width_size_64_dp">64dp</dimen>
+    <dimen name="height_size_34_dp">34dp</dimen>
+    <dimen name="textview_size_17_sp">17sp</dimen>
+        <dimen name="height_size_49_dp">49dp</dimen>
+    <dimen name="height_size_430_dp">430dp</dimen>
+    <dimen name="width_size_33_dp">33dp</dimen>
+    <dimen name="height_size_31_dp">31dp</dimen>
+    <dimen name="width_size_2_dp">2dp</dimen>
+    <dimen name="height_size_20_dp">20dp</dimen>
+    <dimen name="margin_size_2dp_dp">2dp</dimen>
+    <dimen name="height_size_50_dp">50dp</dimen>
+    <dimen name="height_size_60_dp">60dp</dimen>
+    <dimen name="padding_size_4_dp">4dp</dimen>
+    <dimen name="Textview_size_12_sp">12sp</dimen>
+    <dimen name="padding_size_2_dp">2dp</dimen>
+    <dimen name="margin_size_80_dp">80dp</dimen>
+    <dimen name="width_size_128_dp">128dp</dimen>
+    <dimen name="height_size_52_dp">52dp</dimen>
+    <dimen name="padding_15_dp">15dp</dimen>
+    <dimen name="height_size_36_dp">36dp</dimen>
+    <dimen name="wird_size_1_dp">1dp</dimen>
+    <dimen name="padding_size_13_dp">13dp</dimen>
+    <dimen name="width_size_150_dp">150dp</dimen>
+    <dimen name="sizer_45_dp">45dp</dimen>
+    <dimen name="textView_size_0_sp">50sp</dimen>
+    <dimen name="width_size_55_dp">55dp</dimen>
+    <dimen name="height_size_42_dp">42dp</dimen>
+    <dimen name="textView_size_25_sp">25sp</dimen>
+    <dimen name="margin_size_31_dp">31dp</dimen>
+    <dimen name="height_size_307_dp">307dp</dimen>
+    <dimen name="width_size_85_dp">85dp</dimen>
+    <dimen name="height_size_94_dp">94dp</dimen>
+    <dimen name="textView_size_15_p">15sp</dimen>
+    <dimen name="width_size_19_dp">79dp</dimen>
+    <dimen name="height_size_19_dp">71dp</dimen>
+    <dimen name="margin_size_30_dp">30dp</dimen>
+    <dimen name="textView_size_30_sp">30sp</dimen>
+    <dimen name="height_size_437_dp">437dp</dimen>
+    <dimen name="width_size_14_dp">14dp</dimen>
+    <dimen name="width_size_3_dp">3dp</dimen>
+    <dimen name="size_8_dp">6dp</dimen>
+    <dimen name="width_size_129_dp">129dp</dimen>
+    <dimen name="height_size_132_dp">132dp</dimen>
+    <dimen name="width_size_26_dp">26dp</dimen>
+    <dimen name="height_size_25_dp">25dp</dimen>
+    <dimen name="width_size_50_dp">50dp</dimen>
+    <dimen name="height_size_37_dp">37dp</dimen>
+    <dimen name="textView_size_22sp">22sp</dimen>
+    <dimen name="width_size_92_dp">92dp</dimen>
+    <dimen name="height_size_120_dp">120dp</dimen>
+    <dimen name="margin_size_42_dp">42dp</dimen>
+    <dimen name="height_size_40_dp">40dp</dimen>
+    <dimen name="height_size_28_dp">28dp</dimen>
+    <dimen name="widtht_size_160_dp">160dp</dimen>
+    <dimen name="size_39_dp">39dp</dimen>
+    <dimen name="width_size_102_dp">102dp</dimen>
+    <dimen name="height_size_97_dp">97dp</dimen>
+    <dimen name="margin_size_144_dp">144dp</dimen>
+    <dimen name="margin_size_145_dp">145dp</dimen>
+    <dimen name="size_23_dp">23dp</dimen>
+    <dimen name="height_size_900_dp">900dp</dimen>
+    <dimen name="width_size_5_dp">5dp</dimen>
+    <dimen name="height_size_1_dp">1dp</dimen>
+    <dimen name="height_size_400_dp">400dp</dimen>
+    <dimen name="width_size_112_dp">112dp</dimen>
+    <dimen name="size_7_dp">7dp</dimen>
+    <dimen name="height_size_175_dp">175dp</dimen>
+    <dimen name="size_3_dp">3dp</dimen>
+    <dimen name="height_size_390_dp">390dp</dimen>
+    <dimen name="width_size_32_dp">32dp</dimen>
+    <dimen name="size_2_dp">2dp</dimen>
+    <dimen name="width_size_52_dp">52dp</dimen>
+    <dimen name="height_size_74_dp">74dp</dimen>
+    <dimen name="width_size_101_dp">101dp</dimen>
+    <dimen name="height_size_29_dp">29dp</dimen>
+    <dimen name="TextView_size_10_sp">10sp</dimen>
+
+</resources>
